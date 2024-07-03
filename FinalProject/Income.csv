@@ -1,0 +1,21 @@
+"Job","Salary","Item","Description"
+"Technician & Specialist","$80,000 ","GR_PT_REV","Gross Routine Patient "
+"Management & Supervision","$120,000 ","DED_REV_PLUS_DSH","Deductions from
+Revenue"
+"Licensed Vocational Nurse","$60,000 ","TOT_CAP_REV","Total Capitation Revenue"
+"Aides & Orderlies","$40,000 ","NET_REV_LESS_DSH","Net Patient
+Revenue "
+"Clerical & Other Administrative","$60,000 ","TOT_OP_EXP","Total Operating Expense"
+"Environmental & Food Services","$40,000 ","NET_OP_LESS_DSH","Net from
+Operation"
+"Education Cost Centers","NA","NONOP_REV","Non-operating Revenue"
+"Administrative Services Cost Centers","$100,000 ","INC_TAX","Income Tax"
+"Fiscal Services Cost Center","NA","NET_INC_LESS_DSH","Net Income"
+"General Services Cost Centers","NA","OPERATING_MARGIN","Operating Margin"
+"Education Cost Centers","NA","NONOP_EXP"," Non-operating Expense"
+"Ancillary Cost Centers","NA","",""
+"Ambulatory Cost Centers","NA","",""
+"Daily Cost Centers","NA","",""
+"Contracted Registry Nursing","$100,000 ","",""
+"
+Contracted Other","NA","",""
